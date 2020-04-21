@@ -18,7 +18,9 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="http://g.recordit.co/UJ5LjIefVA.gif" width=250><br>
 
 ### Notes
+
 Encountered collection view cell sizing problem, solved by setting estimate size to None
+
 ---
 
 ## Flix Part 1
@@ -39,4 +41,5 @@ Encountered collection view cell sizing problem, solved by setting estimate size
 <img src="http://g.recordit.co/WzZI5PvSnD.gif" width=250><br>
 
 ### Notes
+
 Describe any challenges encountered while building the app.
