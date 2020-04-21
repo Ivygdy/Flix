@@ -20,6 +20,7 @@
 		CA8AC8BD2447F6DC00868F8C /* MoviesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA8AC8BC2447F6DC00868F8C /* MoviesViewController.swift */; };
 		CA8AC8C124480C3A00868F8C /* MovieCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA8AC8C024480C3A00868F8C /* MovieCell.swift */; };
 		CADE6128244E802F005BECED /* MovieDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CADE6127244E802F005BECED /* MovieDetailsViewController.swift */; };
+		CADE612A244E9468005BECED /* MovieGridViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CADE6129244E9468005BECED /* MovieGridViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -64,6 +65,7 @@
 		CA8AC8BC2447F6DC00868F8C /* MoviesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesViewController.swift; sourceTree = "<group>"; };
 		CA8AC8C024480C3A00868F8C /* MovieCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieCell.swift; sourceTree = "<group>"; };
 		CADE6127244E802F005BECED /* MovieDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetailsViewController.swift; sourceTree = "<group>"; };
+		CADE6129244E9468005BECED /* MovieGridViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieGridViewController.swift; sourceTree = "<group>"; };
 		CCD41E1FF487819C5BEC5D3E /* Pods-flix-flixUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-flix-flixUITests.release.xcconfig"; path = "Target Support Files/Pods-flix-flixUITests/Pods-flix-flixUITests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -139,6 +141,7 @@
 				CA8AC8BC2447F6DC00868F8C /* MoviesViewController.swift */,
 				CA8AC8C024480C3A00868F8C /* MovieCell.swift */,
 				CADE6127244E802F005BECED /* MovieDetailsViewController.swift */,
+				CADE6129244E9468005BECED /* MovieGridViewController.swift */,
 			);
 			path = flix;
 			sourceTree = "<group>";
@@ -418,6 +421,7 @@
 				CA8AC88F2447F1B400868F8C /* SceneDelegate.swift in Sources */,
 				CA8AC8C124480C3A00868F8C /* MovieCell.swift in Sources */,
 				CA8AC8BD2447F6DC00868F8C /* MoviesViewController.swift in Sources */,
+				CADE612A244E9468005BECED /* MovieGridViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
